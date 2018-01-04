@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">List App</string>
+
+    <string-array name="items">
+        <item>Pikachu</item>
+        <item>Iwazaru</item>
+        <item>something completely different</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$1.89</item>
+        <item>$4.20</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Fresh Pikachus from Merika</item>
+        <item>In the name of Harmon...</item>
+        <item>The doctor is in</item>
+    </string-array>
+</resources>
